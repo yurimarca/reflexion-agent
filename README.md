@@ -56,7 +56,8 @@ You can modify the prompt or agent logic in `src/main.py` and related files.
 
 ### Response sample
 
-**Write about the importance of the paper 'Attetion is all you need' for the current state of AI.**
+```
+>> Write about the importance of the paper 'Attetion is all you need' for the current state of AI.
 
 The paper 'Attention Is All You Need' significantly impacted the AI domain through introducing the Transformer model, which utilized an 'attention' mechanism[1]. This mechanism enabled the model to focus differently on variable parts of the input data, efficiently capturing dependencies irrespective of their distance. It was a novel approach as the 'attention' mechanism superseded the sequential nature of conventional techniques—recurrent neural networks (RNNs) and convolutional neural networks (CNNs)[2]. This shift brought about notable improvements in computational efficiency and long-term dependencies, thereby transforming natural language processing (NLP)[2].
 
@@ -70,6 +71,7 @@ References:
 [3]https://towardsdatascience.com/transformers-141e32e69591
 [4]https://arxiv.org/abs/1706.03762v5
 [5]https://medium.com/@hassaanidrees7/transformers-in-action-real-world-applications-of-transformer-models-1092b4df8927
+```
 
 ## License
 
