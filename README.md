@@ -63,15 +63,12 @@ You can modify the prompt or agent logic in `src/main.py` and related files.
 
 ### Response sample
 
-![result](/home/yurimarca/Code/reflexion-agent/figs/result.png)
+![result](figs/result.png)
 
 
 #### LangSmith Tracing
 
-![tracing](/home/yurimarca/Code/reflexion-agent/figs/langsmith-tracing.png)
-
-
-
+![tracing](figs/langsmith-tracing.png)
 
 
 ## License
